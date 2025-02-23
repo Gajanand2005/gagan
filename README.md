@@ -1,4 +1,4 @@
 # gagan
 this is my second repository 
 <br>
-author is - gagan
+author is - gagan singh
